@@ -1,0 +1,20 @@
+repo_name: nghianguyent/anonystick
+report_id: 5ef9173e836ff99be6c4c2c2ae36ea0f
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T05:49:45+00:00'
+requested_by: anonystick
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/nghianguyent/anonystick
+  detection_source: Repo Metadata
